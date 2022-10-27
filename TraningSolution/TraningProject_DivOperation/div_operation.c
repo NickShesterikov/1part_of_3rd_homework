@@ -11,14 +11,12 @@ int main() {
 		printf("Divisor cant be 0!!!!\n");
 	}
 	else {
-
 		if (a == 0 && b < 0) {
 			div = 0
 		}
 		else {
 			div = a / b;
 		}
-		
 	}
 	
 
